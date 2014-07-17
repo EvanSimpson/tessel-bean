@@ -1,0 +1,15 @@
+{
+  "name": "tessel-bean",
+  "version": "0.0.1",
+  "description": "Tessel library for connecting to a LightBlue Bean",
+  "main": "index.js",
+  "author": "Evan Simpson <evan@technical.io",
+  "license": "MIT",
+  "keywords": [
+    "tessel",
+    "ble",
+    "bluetooth",
+    "bean",
+    "lightblue"
+  ]
+}
